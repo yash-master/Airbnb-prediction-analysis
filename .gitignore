@@ -1,0 +1,45 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Logs
+*.log
+
+# Output folders
+outputs/models/
+outputs/figures/
+
+# Python cache
+*.egg-info/
+
+# Distribution
+build/
+dist/
+
+# Coverage
+.coverage
+
+htmlcov/
+
+# Temporary
+*.tmp
