@@ -188,17 +188,3 @@ pip install -r requirements.txt
 
 python main.py
 ```
-
----
-
-## Author
-
-**Yash Master**
-
-Data Engineer | Machine Learning Enthusiast
-
----
-
-## License
-
-This project is licensed under the MIT License.
